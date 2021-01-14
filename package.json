@@ -1,0 +1,8 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "main": "classes.js",
+  "license": "MIT",
+  "author": "Demetrio",
+  "type": "module"
+}
